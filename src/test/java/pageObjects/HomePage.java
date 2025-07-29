@@ -1,5 +1,6 @@
 package pageObjects;
 
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -24,8 +25,12 @@ public class HomePage extends BasePage{
 	//Action Methods
 	
 	public void clickMyAccount() throws InterruptedException
-	{   Thread.sleep(3000);
-		Myaccount.click();
+	{   
+		//Myaccount.click();
+		
+		JavascriptExecutor js = (JavascriptExecutor) driver;
+		js.executeScript("arguments[0].click();", Myaccount);
+	
 	}
 	
 	public void clickRegister()
