@@ -23,8 +23,8 @@ public class HomePage extends BasePage{
 	
 	//Action Methods
 	
-	public void clickMyAccount()
-	{
+	public void clickMyAccount() throws InterruptedException
+	{   Thread.sleep(3000);
 		Myaccount.click();
 	}
 	

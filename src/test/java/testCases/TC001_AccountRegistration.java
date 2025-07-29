@@ -16,6 +16,7 @@ public class TC001_AccountRegistration extends BaseClass {
 		logger.info("***********Starting the TC001_AccountRegistration*************");
 		try {
 			HomePage hp = new HomePage(driver);
+			Thread.sleep(3000);
 			hp.clickMyAccount();
 			logger.info("***********Clicked on My Account Link*************");
 			hp.clickRegister();

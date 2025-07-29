@@ -1478,3 +1478,21 @@
 2025-07-28 22:48:17 [main] INFO  testCases.TC001_AccountRegistration - ***************Test case finished****************
 2025-07-28 22:48:19 [main] INFO  testCases.TC002_LogInTest - ***********Starting the TC002_LoginTest*************
 2025-07-28 22:48:22 [main] INFO  testCases.TC002_LogInTest - ***********Finshed the TC002_LoginTest*************
+2025-07-29 15:51:51 [main] INFO  testCases.TC001_AccountRegistration - ***********Starting the TC001_AccountRegistration*************
+2025-07-29 15:51:51 [main] INFO  testCases.TC001_AccountRegistration - ***********Clicked on My Account Link*************
+2025-07-29 15:51:52 [main] INFO  testCases.TC001_AccountRegistration - ***********Clicked on Register Link*************
+2025-07-29 15:51:52 [main] INFO  testCases.TC001_AccountRegistration - ***********Providing customer details*************
+2025-07-29 15:51:53 [main] INFO  testCases.TC001_AccountRegistration - ***********Clicked on continue button*************
+2025-07-29 15:51:53 [main] INFO  testCases.TC001_AccountRegistration - ***********Validating expected Message*************
+2025-07-29 15:51:53 [main] INFO  testCases.TC001_AccountRegistration - ***************Test case finished****************
+2025-07-29 15:51:56 [main] INFO  testCases.TC002_LogInTest - ***********Starting the TC002_LoginTest*************
+2025-07-29 15:51:58 [main] INFO  testCases.TC002_LogInTest - ***********Finshed the TC002_LoginTest*************
+2025-07-29 15:52:42 [main] INFO  testCases.TC001_AccountRegistration - ***********Starting the TC001_AccountRegistration*************
+2025-07-29 15:52:42 [main] INFO  testCases.TC001_AccountRegistration - ***********Clicked on My Account Link*************
+2025-07-29 15:52:43 [main] INFO  testCases.TC001_AccountRegistration - ***********Clicked on Register Link*************
+2025-07-29 15:52:43 [main] INFO  testCases.TC001_AccountRegistration - ***********Providing customer details*************
+2025-07-29 15:52:44 [main] INFO  testCases.TC001_AccountRegistration - ***********Clicked on continue button*************
+2025-07-29 15:52:44 [main] INFO  testCases.TC001_AccountRegistration - ***********Validating expected Message*************
+2025-07-29 15:52:44 [main] INFO  testCases.TC001_AccountRegistration - ***************Test case finished****************
+2025-07-29 15:52:47 [main] INFO  testCases.TC002_LogInTest - ***********Starting the TC002_LoginTest*************
+2025-07-29 15:52:49 [main] INFO  testCases.TC002_LogInTest - ***********Finshed the TC002_LoginTest*************

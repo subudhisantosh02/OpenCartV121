@@ -11,7 +11,7 @@ import testBase.BaseClass;
 public class TC002_LogInTest extends BaseClass {
 
 	@Test(groups={"Sanity","Master"})
-	public void verify_login() {
+	public void verify_login() throws InterruptedException {
 
 		logger.info("***********Starting the TC002_LoginTest*************");
 		
